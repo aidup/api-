@@ -25,7 +25,7 @@
 
 ### 环境准备
 
-1. 确保你已安装最新版本的 [Node.js](https://nodejs.org/) 和 [npm](https://www.npmjs.com/)。
+纯html+css+js,没什么好说的
 
 ### 配置 API
 
@@ -42,7 +42,7 @@
     ],
     "m3u8ParserUrl": "你的m3u8解析器地址"
 }
-
+```
 
 server.js用来解决跨域,不需要可以无视
 
