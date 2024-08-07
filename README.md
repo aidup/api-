@@ -13,7 +13,7 @@
 
 ## 目录结构
 
-.
+
 ├── index.html # 主页面
 
 ├── api-config.json # API 配置文件
