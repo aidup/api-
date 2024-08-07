@@ -1,7 +1,5 @@
-
-# api-![[20248710233.jpg](https://github.com/aidup/api-/blob/main/20248710233.jpg?raw=true)]()
-
-maccms影视api解析,资源采集api聚合搜索
+![](https://github.com/aidup/api-/blob/main/20248710233.jpg?raw=true)
+# api-maccms影视api解析,资源采集api聚合搜索
 # 视频搜索应用
 
 这是一个基于 Vue.js 的视频搜索应用。用户可以通过选择 API 和输入关键词来搜索相关视频，并查看视频详情及播放链接。
